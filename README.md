@@ -1,1 +1,1 @@
-# AdBlock
+# Self Managed AdBlock

@@ -8,6 +8,7 @@
 @@||datadoghq.*^
 @@||detik.com^
 @@||developer.arm.com^
+@@||dl.packetstormsecurity.net^$important
 @@||dr-farfar.com^
 @@||drive-thirdparty.googleusercontent.com^
 @@||extras.getpagespeed.com^

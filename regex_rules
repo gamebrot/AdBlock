@@ -5,8 +5,6 @@
 /(.+[_.-])?dnsdelegation\.io$/
 /(.+[_.-])?eulerian\.net$/
 /(.+[_.-])?telemetry[_.-]/
-/(www[0-9]*\.)?xn--/
-/ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /adim(age|g)s?[0-9]*[_.-]/
 /adtrack(er|ing)?[0-9]*[_.-]/
 /advert(s|is(ing|ements?))?[0-9]*[_.-]/
@@ -19,3 +17,5 @@
 /pixels?[-.]/
 /r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$(..|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|..+))) (..|^)g(gpht|mail|static|v(t[12])?)($|..+) (..|^)chrom(e(experiments)?|ium)($|..+) (..|^)ampproject($|..+) (..|^)doubleclick($|..+) (..|^)firebaseio($|..+) (..|^)googlevideo($|..+) (..|^)waze($|..+) (.*.|^)y(outube|timg)($|..+)/
 /stat(s|istics)?[0-9]*[_.-]/
+/(www[0-9]*\.)?xn--/
+##/ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/

@@ -81,7 +81,7 @@
 ||oas.*^
 ||oascentral.*^
 ||omnisnippet1.com^
-||osce14-en-census.trendmicro.com^
+#||osce14-en-census.trendmicro.com^
 ||pv.sohu.com^
 ||qejkitqjkysrk.com^
 ||qeqt.3658888.com^
@@ -96,7 +96,7 @@
 ||tag.*^
 ||telemetry.*^
 ||tracker.*^
-||trendmicro.com^
+#||trendmicro.com^
 ||unfurlyawweed.casa^
 ||uukuveclardn.com^
 ||upload.xdr.trendmicro.*^
